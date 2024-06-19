@@ -32,6 +32,6 @@ You can filter the log based on Kubernetes label name and error type.
 # Kibana Snap
 ![kibana](kibana.png)
 
-
+Finally you have this:http://192.168.49.2:32010/app/kibana#/home?_g=()
 
  
