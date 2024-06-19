@@ -32,9 +32,6 @@ You can filter the log based on Kubernetes label name and error type.
 # Kibana Snap
 ![kibana](kibana.png)
 
-That's all my friends!!! start using your ELK cluster. Give me a star if you like it.
-
-**Happy Learning!!!**
 
 
  
